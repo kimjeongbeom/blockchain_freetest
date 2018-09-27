@@ -1,3 +1,6 @@
+Caution
+- web3 install : web3@0.20.2
+
 file download URL
 - sha1 : http://pajhome.org.uk/crypt/md5/scripts.html
 - socket.io : https://socket.io
